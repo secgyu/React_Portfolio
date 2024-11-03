@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="react-portfolio-two-woad.vercel.app/" target="_blank">김규민 포트폴리오</a>
+  <a href="http://react-portfolio-two-woad.vercel.app/" target="_blank">김규민 포트폴리오</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
