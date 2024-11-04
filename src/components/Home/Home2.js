@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />저는 이러한 언어를 다룰줄 압니다.➡️
               <i>
-                <b className="purple"> C, Java, and Python. </b>
+                <b className="purple"> C, Java, Python and more. </b>
               </i>
               <br />
               <br />

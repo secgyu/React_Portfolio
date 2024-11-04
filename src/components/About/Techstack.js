@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { SiFlask } from "react-icons/si";
+import { TbSql } from "react-icons/tb";
 import {
   DiJavascript1,
   DiReact,
@@ -14,6 +14,10 @@ import {
   SiFirebase,
   SiNumpy,
   SiPandas,
+  SiFlask,
+  SiScipy,
+  SiMysql, 
+  SiDocker,
 } from "react-icons/si";
 
 function Techstack() {
@@ -51,6 +55,18 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiCss3 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <TbSql />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiScipy />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiMysql />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDocker />
       </Col>
     </Row>
   );

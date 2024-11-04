@@ -27,7 +27,8 @@ function Projects() {
               isBlog={false}
               title="BDIA"
               description="BDIA Devton 2024"
-              // ghLink="https://github.com/soumyajit4419/Chatify"
+              ghLink="https://github.com/secgyu/BDIA-Devton"
+              demoLink="https://smartadmin.aictlab.com/"
             />
           </Col>
 
@@ -37,7 +38,7 @@ function Projects() {
               isBlog={false}
               title="울산정보산업진흥원"
               description="2024 AI테크데이 해커톤 경진대회"
-              //ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              ghLink="https://github.com/secgyu/Ulsan_AI"
             />
           </Col>
 
@@ -47,7 +48,7 @@ function Projects() {
               isBlog={false}
               title="선문대학교"
               description="2024 마이크로소프트 클라우드를 활용한 인공지능 서비스 개발 경진대회"
-              //ghLink="https://github.com/soumyajit4419/Editor.io"            
+              ghLink="https://github.com/secgyu/Microsoft-x-cloud"            
             />
           </Col>
 

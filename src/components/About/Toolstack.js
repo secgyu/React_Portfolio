@@ -5,6 +5,12 @@ import {
   SiPostman,
   SiVercel,
   SiEclipseide,
+  SiOracle,
+  SiGooglecolab,
+  SiKaggle,
+  SiJupyter,
+  SiGithub,
+  SiPycharm,
 } from "react-icons/si";
 
 function Toolstack() {
@@ -21,6 +27,24 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiEclipseide />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiOracle />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGooglecolab />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiKaggle />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiJupyter />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGithub />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPycharm />
       </Col>
     </Row>
   );
